@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gaber Elbltagy</h1>
 <h3 align="center">A passionate Software Engineer developer from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedelbltagy1" alt="ahmedelbltagy1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" alt="ahmedelbltagy1" /></a> </p>
 
 - 📫 How to reach me **ahmedelbltagy1999@gmail.com**
 
