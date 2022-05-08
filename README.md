@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gaber Elbltagy</h1>
 <h3 align="center">A passionate Software Engineer developer from Egypt</h3>
-<img align="left"src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif" />
-<p align="center"><img src="https://dribbble.com/shots/4502924-Python-developer-animation" alt="ahmedelbltagy1"/></p>
+<p align="center"><img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif" /></p>
 
 - 🌱 I’m currently learning **DevOps**
 
