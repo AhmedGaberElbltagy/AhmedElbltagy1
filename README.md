@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gaber Elbltagy</h1>
 <h3 align="center">A passionate Software Engineer developer from Egypt</h3>
 
-<p align="center"> <a href="https://github.com/AhmedElbltagy1/AhmedElbltagy1/blob/main/banner.png" /></a> </p>
+<p align="center"> <a href="banner.png" /></a> </p>
 
 - 📫 How to reach me **ahmedelbltagy1999@gmail.com**
 
