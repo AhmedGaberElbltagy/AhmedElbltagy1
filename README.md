@@ -3,8 +3,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://dribbble.com/shots/4502924-Python-developer-animation" alt="ahmedelbltagy1" /></a> </p>
 
-- 🔭 I’m currently working on **Learning DevOps**
-
 - 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Back End Projects**
