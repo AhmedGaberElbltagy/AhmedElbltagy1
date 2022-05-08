@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gaber Elbltagy</h1>
 <h3 align="center">A passionate Software Engineer developer from Egypt</h3>
 
-<p align="center"> <a href="https://dribbble.com/shots/4502924-Python-developer-animation" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://dribbble.com/shots/4502924-Python-developer-animation" alt="ahmedelbltagy1" /></a> </p>
+
+- 🔭 I’m currently working on **Learning DevOps**
+
+- 🌱 I’m currently learning **DevOps**
+
+- 👯 I’m looking to collaborate on **Back End Projects**
+
+- 💬 Ask me about **NodeJS , React , MongoDB**
 
 - 📫 How to reach me **ahmedelbltagy1999@gmail.com**
 
