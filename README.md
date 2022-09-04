@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on **Software and Cloud Projects**
 
-- 💬 Ask me about **Software Developmebt , Cloud Architecture, DevOps**
+- 💬 Ask me about **Software Development , Cloud Architecture, DevOps**
 
 - 📫 How to reach me **ahmedelbltagy1999@gmail.com**
 
